@@ -1,2 +1,3 @@
 # hello-world
-Repository for test github
+
+Trying to learn how to code, but without spread personal information.
